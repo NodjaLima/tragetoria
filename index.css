@@ -1,0 +1,59 @@
+header {
+    margin-left: 50px;
+    background-color: beige;
+    background-image: url(pordosol2.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url(pordosol2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h2 {
+    color: rgb(233, 227, 238);
+}
+
+.texto {
+    text-align: center;
+    font-size: 14pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20%;
+    padding-right: 20%;
+    flex-direction: row;
+    justify-content: center;
+    background-color: gray;
+    width: 600px;
+    margin: 0 auto;
+    color: rgb(233, 227, 238)
+}
+
+.gruta {
+    text-align: center;
+}
+
+img {
+    width: 30%;
+    border-radius: 5%;
+}
+
+.lista ul {
+    margin-left: 20px;
+    font-size: 14pt;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: rgb(233, 227, 238);
+    text-align: right;
+    list-style: none; 
+}
+
+#final {
+    padding-bottom: 5%;
+}
